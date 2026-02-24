@@ -24,6 +24,8 @@ The dashboard focuses on analyzing revenue, customer activity, product performan
 - Power Query
 - DAX
 - Data Modeling
+- ## Data Source
+- Northwind sample database
 
 ## Dashboard Preview
 
